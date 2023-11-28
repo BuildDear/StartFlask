@@ -6,5 +6,5 @@ def main():
 
 
 def information():
-    response = make_response('Hello world my dear 10 var', 200)
+    response = make_response('Hello world my dear 10 variant', 200)
     return response
